@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-
+![안녕하세요](https://user-images.githubusercontent.com/55151796/99466319-8ee6ae00-297f-11eb-9849-dfe99654da39.jpeg)
 - 😀 I’m a university student.
 - 💻 I’m currently learning Kotlin, I want to study Python later.
 - 🕒 I am Korean.
