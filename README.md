@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning Kotlin, I want to study Python later.
 - 🕒 I am Korean.
 - 🤔 I want to be a full-stack developer, but it's always hard to study alone.
+- ⚡ BaekJoon : [Link]:https://www.acmicpc.net/user/eknow25
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
