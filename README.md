@@ -1,5 +1,4 @@
-
-<center><img src = "https://user-images.githubusercontent.com/55151796/99466409-b50c4e00-297f-11eb-9712-d3db44b08ffa.jpeg" width = "600" height="465"></center>
+<img src = "https://user-images.githubusercontent.com/55151796/99466409-b50c4e00-297f-11eb-9712-d3db44b08ffa.jpeg" width = "600" height="465" align="center">
 
 
 ### Thanks for Comming 👋
