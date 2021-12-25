@@ -16,8 +16,20 @@ Here are some ideas to get you started:
 - 🕒 자신의 것으로 만드는 것에는 백지노트가 가장 좋다고 생각하여 블로그를 운영하고 있습니다.
 - 💬 전반적인 IT기기를 좋아하며 특히 컴퓨터, 스마트폰 그리고 스마트 홈에 관심이 많습니다.
 
-<br>
 
+
+# 개발 철학
+##### *You have got to start with the customer experience and work backwards to the technology.*  
+##### *고객 경험에서 시작해 역으로 기술 개발에 도달해야 한다.*
+##### *You can't start with the technology and try to figure out where you're going to try to sell.*
+##### *기술 개발을 먼저하고 이를 어디에 판매할지 고민하면 안된다.* 
+
+
+# Contact
+- Email : eknow25@kakao.com
+- Blog : https://slowsure.tistory.com
+
+# Github stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=E-know&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
