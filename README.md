@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 # Contact
 - Email : eknow25@kakao.com
-- Blog : https://slowsure.tistory.com
+- Blog : https://slowsure.tistory.com  
 
 
 # Github stats
