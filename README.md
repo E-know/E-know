@@ -1,4 +1,4 @@
-<p align = "center">
+<p align = "left">
   <img src = "https://user-images.githubusercontent.com/55151796/147390087-a94caa93-34ec-4800-91e0-018103157cb7.jpg" width = "200" height="200" >
 </p>
 
