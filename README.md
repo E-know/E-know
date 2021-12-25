@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 
 # 개발 철학
-##### *You have got to start with the customer experience and work backwards to the technology.*  
-##### *고객 경험에서 시작해 역으로 기술 개발에 도달해야 한다.*
-##### *You can't start with the technology and try to figure out where you're going to try to sell.*
-##### *기술 개발을 먼저하고 이를 어디에 판매할지 고민하면 안된다.* 
+#### *You have got to start with the customer experience and work backwards to the technology.*  
+#### *고객 경험에서 시작해 역으로 기술 개발에 도달해야 한다.*
+#### *You can't start with the technology and try to figure out where you're going to try to sell.*
+#### *기술 개발을 먼저하고 이를 어디에 판매할지 고민하면 안된다.* 
 
 
 # Contact
