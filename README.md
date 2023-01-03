@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 💻 IT기기를 다루는 것을 좋아해서, 그 영향으로 개발자의 꿈을 갖게 되었습니다.
 - 💬 흥미와 끈질긴 생각이 많은 것을 바꿀 수 있다고 생각하기에 많은 것에 흥미를 붙이고  일상 속 문제 들을 해결하기 위해 끈질기게 생각하려 합니다.
 
+# Contact
+- Email : eknow25@icloud.com
+- Blog : https://slowsure.tistory.com  
+
+
 # 개발 철학
 #### *You have got to start with the customer experience and work backwards to the technology.*  
 #### *고객 경험에서 시작해 역으로 기술 개발에 도달해야 한다.*
@@ -27,10 +32,6 @@ Here are some ideas to get you started:
 ✏️ 기본이 다져지면 무엇이든 할 수 있는 것이 많아진다.
 ### 3. **새로운 것을 두려워하지 말고 도전하자.**
 ✏️ 작년처럼 지금 당장 득되는 것이 없다해도 끊임없이 새로운 기술을 도전하자.
-
-# Contact
-- Email : eknow25@icloud.com
-- Blog : https://slowsure.tistory.com  
 
 
 # Github stats
