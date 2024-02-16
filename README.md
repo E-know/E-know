@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 💬 존중하고 존중 받을 수 있는 개발자로 목표로 하고 있습니다.
 
 # CV & Portfolio
-<a href="http://naver.me/5MSzQBpd" target="_blank">📃CV & Portfolio</a>
+<a href="http://naver.me/5MSzQBpd" target="_blank">📃CV & Portfolio</a>  
+
+  [새 탭에서 열기](https://www.google.com/){:target="_blank"}  
 
 # Contact
 - Email : eknow25@icloud.com
