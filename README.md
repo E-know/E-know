@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 💻 IT기기를 다루는 것을 좋아해서, 그 영향으로 개발자의 꿈을 갖게 되었습니다.
 - 💬 존중하고 존중 받을 수 있는 개발자로 목표로 하고 있습니다.
 
-# CV & Portfolio
-[📃CV & Portfolio](http://naver.me/5MSzQBpd) `우클릭 후 새 탭으로 열기를 추천드립니다`
-
 # Contact
 - Email : eknow25@icloud.com
 - Blog : https://toby.hashnode.dev |  https://slowsure.tistory.com (구버전)
