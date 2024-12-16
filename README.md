@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Contact
 - Email : eknow25@icloud.com
-- Blog : https://toby.hashnode.dev |  https://slowsure.tistory.com (구버전)
+- Blog : [https://ohni.notion.site/](https://ohni.notion.site/) | [https://toby.hashnode.dev](https://toby.hashnode.dev) (구버전)
 
 
 # 개발 철학
