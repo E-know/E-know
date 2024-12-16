@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Contact
 - Email : eknow25@icloud.com
-- Blog : [https://ohni.notion.site/](https://ohni.notion.site/) | [https://toby.hashnode.dev](https://toby.hashnode.dev) (구버전)
+- Blog : [현재 블로그](https://ohni.notion.site) | [이전 블로그](https://toby.hashnode.dev) 
 
 
 # 개발 철학
