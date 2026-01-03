@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Contact
 - Email : eknow25@icloud.com
-- Blog : [현재 블로그](https://ohni.notion.site) | [이전 블로그](https://toby.hashnode.dev) 
+- Blog : [현재 블로그](https://medium.com/@tobydev) [현재 블로그](https://ohni.notion.site)| [이전 블로그](https://toby.hashnode.dev) 
 
 
 # 개발 철학
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 #### *기술 개발을 먼저하고 이를 어디에 판매할지 고민하면 안된다.* 
 
 # 2026년 개발 목표  
-✏️ 일이 막혔을 때 함께 의논하고 싶은 팀원이 되자.
-✏️ 기록하는 습관을 들이자, 미래에 큰 도움이 된다.
-✏️ AI를 적극 활용해서 10인분하는 개발자가 되어보자.
+✏️ 일이 막혔을 때 함께 의논하고 싶은 팀원이 되자.  
+✏️ 기록하는 습관을 들이자, 미래에 큰 도움이 된다.  
+✏️ AI를 적극 활용해서 10인분하는 개발자가 되어보자.  
