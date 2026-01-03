@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### *You can't start with the technology and try to figure out where you're going to try to sell.*
 #### *기술 개발을 먼저하고 이를 어디에 판매할지 고민하면 안된다.* 
 
-# 2025년 개발 목표  
-✏️ 혼자 코딩 잘하는 것보다는 팀으로 일 했을 때 잘하는 개발자가 되고 싶다.  
-✏️ 기본이 다져지면 무엇이든 할 수 있는 것이 많아진다.  
-✏️ 끊임없이 새로운 기술을 도전하자. 언젠간 사용할 기회는 온다.  
+# 2026년 개발 목표  
+✏️ 일이 막혔을 때 함께 의논하고 싶은 팀원이 되자.
+✏️ 기록하는 습관을 들이자, 미래에 큰 도움이 된다.
+✏️ AI를 적극 활용해서 10인분하는 개발자가 되어보자.
